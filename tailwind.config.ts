@@ -13,7 +13,20 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
-    },
+      fontFamily:{
+        'epilogue': ['Epilogue', 'sans-serif'],
+        "Poppins":["Poppins","sans-serif"]
+      },
+      colors:{
+        "purposeBg":"#56CDAD1A",
+        "pupose":"#56CDAD",
+        "education":"#FFB836",
+        "IT":"#4640DE",
+        "manga":"#25324B"
+       
+
+      }
+    }
   },
   plugins: [],
 };
