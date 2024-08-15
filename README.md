@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Job Listing Application built using NextJs and Tailwind CSS. It includes a job listing dashboard where users can view job cards, and when a user clicks on a job card, they are taken to a detailed description page of the selected job.
+This project is a Job Listing Application built using NextJs ,RTK query and Tailwind CSS. It includes a job listing dashboard where users can view job cards, and when a user clicks on a job card, they are taken to a detailed description page of the selected job.
 
 ## Features
 
@@ -14,11 +14,11 @@ This project is a Job Listing Application built using NextJs and Tailwind CSS. I
 
 ### Job Listing Dashboard
 
-![Job Listing Dashboard](./public/images/mainPage.png)
+![Job Listing Dashboard](./public/images/main.png)
 
 ### Job Details Page
 
-![Job Details Page](./public/images/jobdetail.png)
+![Job Details Page](./public/images/details.png)
 
 
 
